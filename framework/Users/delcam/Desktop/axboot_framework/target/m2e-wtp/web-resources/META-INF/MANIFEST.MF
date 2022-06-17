@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: delcam
+Build-Jdk: 15.0.2
+Implementation-Title: axboot FrameWork
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.axboot.framework
+Implementation-Vendor: Chequer, Inc.
+Implementation-URL: http://www.axboot.com/framework
+Main-Class: com.axboot.AXBootApplicationInitializer
+Created-By: Maven Integration for Eclipse
+
